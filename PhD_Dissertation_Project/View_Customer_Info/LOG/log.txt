@@ -1,0 +1,3 @@
+index.php
+SSN = 987898765
+sql = SELECT Customer_id,Customer_name,SSN,Gender,Date_of_Birth,Address,City,State,PIN,Mobile_Number,Email,Password FROM Customer where SSN='987898765'

@@ -1,0 +1,3 @@
+index.php
+SSN = 987898769
+sql = SELECT Account_id,Customer_id,Account_type,SSN,Initial_deposit FROM Account where SSN='987898769'
